@@ -1,8 +1,8 @@
 # Hi, I'm Samir 👋
 
-Software/ML engineer working on AI: LLM agents, retrieval,
-and the production plumbing that keeps them honest (observability, data
-pipelines, safe deploys). I like systems that fail loudly and tell you why.
+Software/ML engineer working on AI: LLM agents, retrieval, and the production
+plumbing around them (observability, data pipelines, safe deploys). I like
+systems that fail loudly and tell you why.
 
 - 🛠️ Python · LangGraph · FastAPI · PostgreSQL/pgvector · polars · Prometheus/Grafana · Power BI
 - 🎓 Postgraduate studies in Data Science (UNSA)
@@ -10,8 +10,7 @@ pipelines, safe deploys). I like systems that fail loudly and tell you why.
 
 ## Featured projects
 
-Each repo is a small, self-contained, tested pattern - the kind of problem I
-solve day to day, rewritten from scratch so it stands on its own.
+Each repo is small, self-contained, and tested, and stands on its own.
 
 ### LLM & agents
 
@@ -42,9 +41,9 @@ solve day to day, rewritten from scratch so it stands on its own.
 
 ## A few things I care about
 
-- **Honest failure.** "Found nothing" and "errored" are different answers; code
-  should never paper over either with a confident guess.
-- **Validate before you trust.** Especially joins across data sources - verify
-  the values, not just the column names.
+- **"Found nothing" and "errored" are different answers.** Code should not paper
+  over either one with a confident guess.
+- **Validate before you trust.** Especially joins across data sources: check the
+  values, not just the column names.
 - **Make the alert useful.** The signal should carry enough context to act on
   without spelunking through logs.
