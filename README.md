@@ -1,6 +1,6 @@
 # Hi, I'm Samir 👋
 
-Software/ML engineer working on an AdTech AI platform: LLM agents, retrieval,
+Software/ML engineer working on AI: LLM agents, retrieval,
 and the production plumbing that keeps them honest (observability, data
 pipelines, safe deploys). I like systems that fail loudly and tell you why.
 
@@ -29,6 +29,12 @@ solve day to day, rewritten from scratch so it stands on its own.
 | [capability-access-guard](https://github.com/SamirDiegoChavezCaceres/capability-access-guard) | Fail-closed, capability-based authorization with tenant isolation and machine-readable denial reasons. |
 | [cron-metrics-prometheus](https://github.com/SamirDiegoChavezCaceres/cron-metrics-prometheus) | Cron monitoring where the alert carries the real error, not just `exit=1`. Pushgateway + Prometheus + Grafana. |
 | [sunedu-oferta-academica](https://github.com/SamirDiegoChavezCaceres/sunedu-oferta-academica) | A quota-aware client for Peru's public SUNEDU data and a polars star model with validations that fail loud. |
+
+### Research & applied ML
+
+| Project | What it shows |
+|---------|---------------|
+| [lung-cancer-risk-ml](https://github.com/SamirDiegoChavezCaceres/lung-cancer-risk-ml) | Lung cancer risk from lifestyle questionnaires (SMOTE + XGBoost + LIME), ~96% F1. Code behind our IEEE Xplore paper. |
 
 ## A few things I care about
 
