@@ -13,10 +13,20 @@ pipelines, safe deploys). I like systems that fail loudly and tell you why.
 Each repo is a small, self-contained, tested pattern - the kind of problem I
 solve day to day, rewritten from scratch so it stands on its own.
 
+### LLM & agents
+
 | Project | What it shows |
 |---------|---------------|
 | [semantic-rag-pgvector](https://github.com/SamirDiegoChavezCaceres/semantic-rag-pgvector) | A RAG that says "I don't know": retrieval with a distance threshold, plus content-hash dedup over pgvector. |
 | [langgraph-agent-hitl](https://github.com/SamirDiegoChavezCaceres/langgraph-agent-hitl) | A LangGraph agent with a hub router and a human-in-the-loop step that pauses for approval and resumes by token. |
+| [llm-observability-evals](https://github.com/SamirDiegoChavezCaceres/llm-observability-evals) | Tracing that no-ops without keys (Langfuse-ready) plus an LLM-as-judge evaluation harness. |
+
+### Platform, reliability & data
+
+| Project | What it shows |
+|---------|---------------|
+| [mutation-approval-plane](https://github.com/SamirDiegoChavezCaceres/mutation-approval-plane) | Propose/approve/execute for changes: idempotent, auditable, with separation of duties and a before-image concurrency check. |
+| [capability-access-guard](https://github.com/SamirDiegoChavezCaceres/capability-access-guard) | Fail-closed, capability-based authorization with tenant isolation and machine-readable denial reasons. |
 | [cron-metrics-prometheus](https://github.com/SamirDiegoChavezCaceres/cron-metrics-prometheus) | Cron monitoring where the alert carries the real error, not just `exit=1`. Pushgateway + Prometheus + Grafana. |
 | [sunedu-oferta-academica](https://github.com/SamirDiegoChavezCaceres/sunedu-oferta-academica) | A quota-aware client for Peru's public SUNEDU data and a polars star model with validations that fail loud. |
 
