@@ -31,6 +31,7 @@ tests, and green CI.
 | [capability-access-guard](https://github.com/SamirDiegoChavezCaceres/capability-access-guard) | Fail-closed, capability-based authorization with tenant isolation and machine-readable denial reasons. |
 | [cron-metrics-prometheus](https://github.com/SamirDiegoChavezCaceres/cron-metrics-prometheus) | Cron monitoring where the alert carries the real error, not just `exit=1`. Pushgateway + Prometheus + Grafana. |
 | [sunedu-oferta-academica](https://github.com/SamirDiegoChavezCaceres/sunedu-oferta-academica) | A quota-aware client for Peru's public SUNEDU data and a polars star model with validations that fail loud. |
+| [email-intake](https://github.com/SamirDiegoChavezCaceres/email-intake) | Turn inbound email into a safe structured record: parse, scan attachments, redact PII, extract fields. |
 
 ### Research & applied ML
 
