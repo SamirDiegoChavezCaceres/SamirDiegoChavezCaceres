@@ -28,6 +28,7 @@ tests, and green CI.
 | Project | What it shows |
 |---------|---------------|
 | [mutation-approval-plane](https://github.com/SamirDiegoChavezCaceres/mutation-approval-plane) | Propose/approve/execute for changes: idempotent, auditable, with separation of duties and a before-image concurrency check. |
+| [transactional-outbox](https://github.com/SamirDiegoChavezCaceres/transactional-outbox) | The transactional outbox pattern: write a change and its event atomically, relay at-least-once, consume idempotently. |
 | [capability-access-guard](https://github.com/SamirDiegoChavezCaceres/capability-access-guard) | Fail-closed, capability-based authorization with tenant isolation and machine-readable denial reasons. |
 | [cron-metrics-prometheus](https://github.com/SamirDiegoChavezCaceres/cron-metrics-prometheus) | Cron monitoring where the alert carries the real error, not just `exit=1`. Pushgateway + Prometheus + Grafana. |
 | [sunedu-oferta-academica](https://github.com/SamirDiegoChavezCaceres/sunedu-oferta-academica) | A quota-aware client for Peru's public SUNEDU data and a polars star model with validations that fail loud. |
