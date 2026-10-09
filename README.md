@@ -10,7 +10,8 @@ systems that fail loudly and tell you why.
 
 ## Featured projects
 
-Each repo is small, self-contained, and tested, and stands on its own.
+Each repo is small, self-contained, and stands on its own, with a demo GIF,
+tests, and green CI.
 
 ### LLM & agents
 
@@ -33,7 +34,7 @@ Each repo is small, self-contained, and tested, and stands on its own.
 
 | Project | What it shows |
 |---------|---------------|
-| [lung-cancer-risk-ml](https://github.com/SamirDiegoChavezCaceres/lung-cancer-risk-ml) | Lung cancer risk from lifestyle questionnaires (SMOTE + XGBoost + LIME), ~96% F1. Code behind our IEEE Xplore paper. |
+| [lung-cancer-risk-ml](https://github.com/SamirDiegoChavezCaceres/lung-cancer-risk-ml) | Lung cancer risk from lifestyle questionnaires (SMOTE + XGBoost + LIME), ~96% F1. Code behind our [IEEE Xplore paper](https://doi.org/10.1109/ICA-ACCA62622.2024.10766818). |
 | [insurance-risk-api](https://github.com/SamirDiegoChavezCaceres/insurance-risk-api) | Health-risk classifier served over a Flask REST API, preprocessing baked into one sklearn pipeline. |
 | [mushroom-classification](https://github.com/SamirDiegoChavezCaceres/mushroom-classification) | Edible-vs-poisonous classification with dtype-driven preprocessing; runs on synthetic data or the public UCI dataset. |
 | [recipe-traffic-prediction](https://github.com/SamirDiegoChavezCaceres/recipe-traffic-prediction) | Predict high-traffic recipes; median imputation in-pipeline and precision chosen to match the business cost. |
