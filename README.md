@@ -44,6 +44,15 @@ tests, and green CI.
 | [recipe-traffic-prediction](https://github.com/SamirDiegoChavezCaceres/recipe-traffic-prediction) | Predict high-traffic recipes; median imputation in-pipeline and precision chosen to match the business cost. |
 | [biosignal-feature-extraction](https://github.com/SamirDiegoChavezCaceres/biosignal-feature-extraction) | Spectral band power (FFT) and wavelet energy (DWT) features from 1-D signals, with a classifier. |
 
+## Certifications
+
+- **AI Engineer**, Oracle (in progress, 2026)
+- **Data Scientist**, Oracle (2025)
+- **Oracle APEX Developer Professional**, Oracle (2025)
+- **Associate Data Scientist in Python**, DataCamp (2025)
+- **Machine Learning Foundations / Introduction to Cloud**, AWS Academy (2024)
+- **Data Science specialization**, Data Science Research Peru (2024)
+
 ## A few things I care about
 
 - **"Found nothing" and "errored" are different answers.** Code should not paper
