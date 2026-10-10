@@ -46,11 +46,11 @@ tests, and green CI.
 
 ## Certifications
 
+- [**OCI 2025 Certified Data Science Professional**](https://catalog-education.oracle.com/ords/certview/sharebadge?id=F55E2F32AEB7D8F991B54CF1DD5FFEF8D5D0303981AE47BA81C4A5BC8376683C) (Oracle, 2025)
+- [**Oracle APEX Cloud Certified Developer Professional**](https://catalog-education.oracle.com/ords/certview/sharebadge?id=69816C99FC00DE3209F9D00F4FBD1587463E9AE9AE6A5CEBFBFA656CB5FB89E0) (Oracle, 2025)
+- [**Associate Data Scientist in Python**](https://www.datacamp.com/certificate/DS0024568688503) (DataCamp, 2025)
+- **AWS Academy Graduate**: [Machine Learning Foundations](https://www.credly.com/badges/ca4769e9-391d-48f8-8bb2-2423b97f2440/public_url), Introduction to Cloud [S1](https://www.credly.com/badges/47f5270a-b2d2-44a3-9037-600e9cd2d9ee/public_url) / [S2](https://www.credly.com/badges/19579b71-cda8-44c2-beee-a6cca7f72f5c/public_url) (2024)
 - **AI Engineer**, Oracle (in progress, 2026)
-- **Data Scientist**, Oracle (2025)
-- **Oracle APEX Developer Professional**, Oracle (2025)
-- **Associate Data Scientist in Python**, DataCamp (2025)
-- **Machine Learning Foundations / Introduction to Cloud**, AWS Academy (2024)
 - **Data Science specialization**, Data Science Research Peru (2024)
 
 ## A few things I care about
